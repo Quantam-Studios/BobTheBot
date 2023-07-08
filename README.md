@@ -1,3 +1,6 @@
+> **Note**
+This repository is deprecated, [here](https://github.com/bob-el-bot/BobTheBot) is where you want to be :)
+
 <div align="center">
     <img src="https://cdn.discordapp.com/app-icons/705680059809398804/299eecd0b113960b0b8109908b9347ca.png?size=128">
 <p>
